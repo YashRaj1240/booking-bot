@@ -41,7 +41,7 @@ Here's the table expressed as markdown, truncated to 4 columns and 4 rows:
 | time  | table1 (2p) | table2 (2p) | table3 (2p) |
 | ----- | ----------- | ----------- | ----------- |
 | 12:00 |             | Jones       |             |
-| 12:30 | Anderson    | Liam H      | Yashson K   |
+| 12:30 | Anderson    | Liam H      | Jackson K   |
 | 13:00 | Li          | Patel       | Johnson     |
 | 13:30 | Martin      |             |             |
 
@@ -107,16 +107,16 @@ Would you like to book one of these available times, or would you prefer to chec
 ✨ System Response: Excellent choice! I'm happy to help you book a table for 6:00 PM (18:00). To confirm, we have a table for 2 people available at that time. Before I make the reservation, I just need one more piece of information from you.
 
 💬 Under what name would you like to make the reservation?
-👉 Enter Message: Yash
-🛠️ Using Tool [ask_user]: Yash
+👉 Enter Message: Jack
+🛠️ Using Tool [ask_user]: Jack
 
-✨ System Response: Thank you, Yash. I'll go ahead and book the table for you now.
+✨ System Response: Thank you, Jack. I'll go ahead and book the table for you now.
 
-🛠️ Using Tool [book_table]: ✅ Booking Success: table3 (2p) at 18:00 for Yash
+🛠️ Using Tool [book_table]: ✅ Booking Success: table3 (2p) at 18:00 for Jack
 
-✨ System Response: Great news, Yash! Your reservation has been successfully booked. Here are the details of your reservation:
+✨ System Response: Great news, Jack! Your reservation has been successfully booked. Here are the details of your reservation:
 
-- Name: Yash
+- Name: Jack
 - Table: table3 (2-person table)
 - Date: Today
 - Time: 6:00 PM (18:00)
