@@ -1,6 +1,6 @@
 # Claude Tools Project: Booking Bot
 
-This is an example project to show you how to use Claude 3.5's "tool use" functionality. Tools are custom functions that we can tell Claude about, and then Claude can decide to "use" them by sending us the intent and input as its response
+This is an example project to show you how to use Claude 3.5's "tool use" functionality. Tools are custom functions that we can tell Claude about, and then Claude can decide to "use" them by sending us the intent and input as its response.
 
 The project will be a Claude chat bot that helps us check and reserve tables at a restaurant (data stored as a CSV file on disk).
 
